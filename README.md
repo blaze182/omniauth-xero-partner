@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 
-# Omniauth Xero [![Build Status](https://travis-ci.org/blaze182/omniauth-xero-partner.svg?branch=master)](https://travis-ci.org/blaze182/omniauth-xero-partner) [![Code Climate](https://codeclimate.com/github/kaleworsley/omniauth-xero.png)](https://codeclimate.com/github/kaleworsley/omniauth-xero)
+# Omniauth Xero [![Build Status](https://travis-ci.org/blaze182/omniauth-xero-partner.svg?branch=master)](https://travis-ci.org/blaze182/omniauth-xero-partner) [![Code Climate](https://codeclimate.com/github/blaze182/omniauth-xero-partner/badges/gpa.svg)](https://codeclimate.com/github/blaze182/omniauth-xero-partner)
 
 
 [Omniauth Xero](https://github.com/kaleworsley/omniauth-xero) is an [OmniAuth](https://github.com/intridea/omniauth) authentication strategy for [Xero](http://www.xero.com).
