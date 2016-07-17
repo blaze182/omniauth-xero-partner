@@ -6,6 +6,8 @@ module OmniAuth
 
       args [:consumer_key, :consumer_secret]
 
+      option :name, "xero_partner"
+
       option :client_options, {
         :access_token_path  => "/oauth/AccessToken",
         :authorize_path     => "/oauth/Authorize",
