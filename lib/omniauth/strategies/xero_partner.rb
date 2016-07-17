@@ -2,7 +2,7 @@ require "omniauth/strategies/oauth"
 
 module OmniAuth
   module Strategies
-    class Xero < OmniAuth::Strategies::OAuth
+    class XeroPartner < OmniAuth::Strategies::OAuth
 
       args [:consumer_key, :consumer_secret]
 

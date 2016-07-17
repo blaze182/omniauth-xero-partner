@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "OmniAuth::Strategies::Xero" do
+describe "OmniAuth::Strategies::XeroPartner" do
   subject do
-    OmniAuth::Strategies::Xero.new(nil, {})
+    OmniAuth::Strategies::XeroPartner.new(nil, {})
   end
 
   context 'client options' do

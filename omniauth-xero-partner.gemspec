@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "omniauth/xero/version"
+require "omniauth/xero_partner/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "omniauth-xero"
-  spec.version       = Omniauth::Xero::VERSION
-  spec.authors       = ["Kale Worsley"]
-  spec.email         = ["kale@worsley.co.nz"]
-  spec.description   = "Xero authentication strategy for OmniAuth."
-  spec.summary       = "Xero authentication strategy for OmniAuth."
-  spec.homepage      = "http://github.com/kaleworsley/omniauth-xero"
+  spec.name          = "omniauth-xero-partner"
+  spec.version       = Omniauth::XeroPartner::VERSION
+  spec.authors       = ["Kale Worsley", "Paul Ovechkin"]
+  spec.email         = ["kale@worsley.co.nz", "paul.ovechkin@gmail.com"]
+  spec.description   = "Xero Partner authentication strategy for OmniAuth."
+  spec.summary       = "Xero Partner authentication strategy for OmniAuth."
+  spec.homepage      = "http://github.com/blaze182/omniauth-xero-partner"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
