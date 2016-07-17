@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Omniauth Xero [![Build Status](https://travis-ci.org/kaleworsley/omniauth-xero.png?branch=master)](https://travis-ci.org/kaleworsley/omniauth-xero) [![Code Climate](https://codeclimate.com/github/kaleworsley/omniauth-xero.png)](https://codeclimate.com/github/kaleworsley/omniauth-xero)
 
 
